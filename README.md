@@ -2,7 +2,7 @@
 
 This is a Java Swing based project as a game of guessing the number...
 
--------------RULES----------
+--------------RULES-----------
 
 1. You will have only five attempts to guess the number correct.
 2. Everytime you restart it the number will be different (generated raandomly).
